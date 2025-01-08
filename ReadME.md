@@ -36,7 +36,7 @@ Ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-repo/react-native-auth-app.git
+git clone https://github.com/jwaguirr/react-native-auth-template.git
 cd react-native-auth-app
 ```
 
@@ -97,12 +97,6 @@ MONGO_URI=mongodb+srv://<username>:<password>@cluster.mongodb.net/<dbname>?retry
 JWT_SECRET=your_jwt_secret
 REFRESH_TOKEN_SECRET=your_refresh_token_secret
 ```
-
-### Frontend
-
-No additional environment variables are required for the frontend.
-
----
 
 ## Project Structure
 
